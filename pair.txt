@@ -3,3 +3,4 @@ Follow-up condition: preserve the co-author in the final squash commit.
 Follow-up condition: the co-author performs the squash merge.
 Follow-up verification: retain the angle brackets around the co-author email.
 Follow-up: test with Knworks as the named co-author.
+Follow-up: Knworks is the named co-author and performs the squash merge.
