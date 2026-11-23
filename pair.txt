@@ -1,2 +1,3 @@
 Sandbox change for the Pair Extraordinaire achievement test.
 Follow-up condition: preserve the co-author in the final squash commit.
+Follow-up condition: the co-author performs the squash merge.
